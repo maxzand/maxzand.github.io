@@ -67,7 +67,7 @@ social:
 #email: ""
 ---
 
-Maxime Zand is a student studying Robotics and Autonomous Systems at Arizona State University. His research interests include robotic planning and perception, autonomous vehicles, and machine learning applications in robotics.
+Maxime Zand is a master's student studying Robotics and Autonomous Systems at Arizona State University. His research interests include robotic planning and perception, autonomous vehicles, and machine learning applications in robotics.
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Welcome to my portfolio! I'm **Maxime**, a MS student studying Robotics and Autonomous Systems at Arizona State University 🔱.
+Welcome to my portfolio! I'm **Maxime**, a master's student studying Robotics and Autonomous Systems at Arizona State University 🔱.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below. 
