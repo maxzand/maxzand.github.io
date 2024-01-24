@@ -47,7 +47,7 @@ social:
     link: 'mailto:mailmaxzand@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/maxzand
   # - icon: twitter
     # icon_pack: fab
     # link: https://twitter.com/wowchemy
