@@ -4,5 +4,5 @@ summary: A Windows UWP Application that uses the Bluetooth Classic and Bluetooth
 tags:
   - SD
 date: 2022-07-01
-external_link: http://github.com
+external_link: https://github.com/maxzand/ConduitDEVAPP
 ---

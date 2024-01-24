@@ -4,5 +4,5 @@ summary: Server for 2D game Slash built using the Godot game engine in GDScript.
 tags:
   - SD
 date: 2021-05-01
-external_link: http://github.com
+external_link: https://github.com/maxzand/SLASH-SERVER/tree/develop
 ---
