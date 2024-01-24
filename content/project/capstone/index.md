@@ -4,5 +4,5 @@ summary: Mechanical Engineering Senior capstone project with a goal of manufactu
 tags:
   - ME
 date: 2023-01-01
-external_link: http://github.com
+external_link: https://maxzand.github.io/uploads/cubesat.jpg
 ---
