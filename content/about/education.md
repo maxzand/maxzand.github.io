@@ -25,7 +25,7 @@ experience:
   - title: MS Robotics and Autonomous Systems
     company: Arizona State University
     company_url: ''
-    company_logo: org-x
+    company_logo: asusvg
     location: Arizona
     date_start: '2024-01-01'
     date_end: '2025-05-01'
@@ -34,7 +34,7 @@ experience:
   - title: BSE Mechanical Engineering
     company: Arizona State University
     company_url: ''
-    company_logo: org-x
+    company_logo: asusvg
     location: Arizona
     date_start: '2020-08-01'
     date_end: '2024-12-01'
