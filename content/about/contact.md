@@ -14,16 +14,15 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  social:
+    - icon: envelope
+      icon_pack: fas
+      link: 'mailto:mailmaxzand@gmail.com' # For a direct email link, use "mailto:test@example.org".
+    - icon: github
+      icon_pack: fab
+      link: https://github.com/maxzand
 
 design:
   columns: '1'
