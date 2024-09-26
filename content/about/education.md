@@ -30,7 +30,7 @@ experience:
     date_start: '2024-01-01'
     date_end: '2025-012-01'
     description: |2-
-        * GPA: 4.0 / 4.0
+        * GPA: 4.0 / 4.0 
         *  Relevant course work: Modeling and Control of Robots, Perception in Robotics, Computer Control Systems, Reinforcement 
 Learning in Robotics, Advanced System Modeling & Dynamics & Control, Multi-Robot Systems
 
