@@ -28,8 +28,16 @@ experience:
     company_logo: asusvg
     location: Arizona
     date_start: '2024-01-01'
-    date_end: '2025-05-01'
-    description: 
+    date_end: '2025-012-01'
+    description: >
+      - GPA: 4.0 / 4.0
+      - Relevant coursework:
+        - Modeling and Control of Robots
+        - Perception in Robotics
+        - Computer Control Systems
+        - Reinforcement Learning in Robotics
+        - Advanced System Modeling, Dynamics, and Control
+        - Multi-Robot Systems
 
   - title: BSE Mechanical Engineering
     company: Arizona State University
