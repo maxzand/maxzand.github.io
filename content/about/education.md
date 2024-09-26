@@ -32,7 +32,7 @@ experience:
     description: |2-
         * GPA: 4.0 / 4.0 
         *  Relevant course work: Modeling and Control of Robots, Perception in Robotics, Computer Control Systems, Reinforcement 
-Learning in Robotics, Advanced System Modeling & Dynamics & Control, Multi-Robot Systems
+        Learning in Robotics, Advanced System Modeling & Dynamics & Control, Multi-Robot Systems
 
 
   - title: BSE Mechanical Engineering
