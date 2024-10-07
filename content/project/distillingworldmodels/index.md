@@ -5,5 +5,5 @@ tags:
   - RB
   - SD
 date: 2024-04-01
-external_link: https://maxzand.github.io/uploads/Perception_Project_Presentation.pdf
+external_link: https://maxzand.github.io/uploads/Distilling_Symbols_from_Black_Box_World_Models.pdf
 ---
