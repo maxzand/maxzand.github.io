@@ -30,8 +30,8 @@ experience:
     date_start: '2023-05-01'
     date_end: ''
     description: |2-
-    * Designing a physical simulation platform to evaluate human interaction and intervention in autonomous driving algorithms aiding in 2 research projects.
-    * Utilizing Linux and Windows platforms to engineer a physical simulator operating 4 devices including a motion platform to replicate the accelerations and operational dynamics of autonomous vehicles within a virtual environment.
+        * Designing a physical simulation platform to evaluate human interaction and intervention in autonomous driving algorithms aiding in 2 research projects.
+        * Utilizing Linux and Windows platforms to engineer a physical simulator operating 4 devices including a motion platform to replicate the accelerations and operational dynamics of autonomous vehicles within a virtual environment.
 
   - title: Python Powered 3D Printing
     company: Advanced Manufacturing and Functional Devices Lab, Arizona State University
