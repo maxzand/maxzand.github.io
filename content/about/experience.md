@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Physical Simulator Development and AV-TEP
+    company: Battery Electric and Intelligent Vehicle Lab, Arizona State University
+    company_url: ''
+    company_logo: asusvg
+    location: Arizona
+    date_start: '2023-05-01'
+    date_end: ''
+    description: |2-
+    * Designing a physical simulation platform to evaluate human interaction and intervention in autonomous driving algorithms aiding in 2 research projects.
+    * Utilizing Linux and Windows platforms to engineer a physical simulator operating 4 devices including a motion platform to replicate the accelerations and operational dynamics of autonomous vehicles within a virtual environment.
+
   - title: Python Powered 3D Printing
     company: Advanced Manufacturing and Functional Devices Lab, Arizona State University
     company_url: ''
