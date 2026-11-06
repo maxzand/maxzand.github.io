@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: asusvg
     location: Arizona
-    date_start: '2023-05-01'
-    date_end: '2025-01-01'
+    date_start: '2024-05-01'
+    date_end: '2024-12-01'
     description: |2-
         * Designing a physical simulation platform to evaluate human interaction and intervention in autonomous driving algorithms aiding in 2 research projects.
         * Utilizing Linux and Windows platforms to engineer a physical simulator operating 4 devices including a motion platform to replicate the accelerations and operational dynamics of autonomous vehicles within a virtual environment.
@@ -61,6 +61,19 @@ experience:
     description: |2-
         * Brainstormed new designs for development of bio-inspired self-burrowing robots using SolidWorks.
         * Shadowed senior researchers with mechanical design in SolidWorks and programming along with literature reviews.
+
+  - title: Python Control Software for Projection Micro-Stereolithography 3D Printers
+    company: Advanced Manufacturing and Functional Devices Lab, Arizona State University
+    company_url: ''
+    company_logo: asusvg
+    location: Arizona
+    date_start: '2023-05-01'
+    date_end: '2023-08-01'
+    description: |2-
+        * Collaborating with graduate researchers on development of projection micro-stereolithography 3-D printers.
+        * Converting existing control system software to Python for faster development cycles. (C++, Python, Control Systems).
+        * Leveraging PyQT and Python to re-conceptualize existing user interface and to render bitmap components of print into UV 
+        patterns on Digital Micromirror Device (DMD).
 
 
 design:
