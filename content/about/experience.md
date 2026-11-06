@@ -22,13 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Graduate Research Associate
+    company: Arizona State University
+    company_url: ''
+    company_logo: asusvg
+    location: Arizona
+    date_start: '2026-01-01'
+    date_end: ''
+    description: 
+
+  - title: R&D Control Systems Engineer Co-op
+    company: SharkNinja
+    company_url: ''
+    company_logo: ''
+    location: Massachusetts
+    date_start: '2025-01-01'
+    date_end: ''
+    description: 
+
   - title: Physical Simulator Development and AV-TEP
     company: Battery Electric and Intelligent Vehicle Lab, Arizona State University
     company_url: ''
     company_logo: asusvg
     location: Arizona
     date_start: '2023-05-01'
-    date_end: ''
+    date_end: '2025-01-01'
     description: |2-
         * Designing a physical simulation platform to evaluate human interaction and intervention in autonomous driving algorithms aiding in 2 research projects.
         * Utilizing Linux and Windows platforms to engineer a physical simulator operating 4 devices including a motion platform to replicate the accelerations and operational dynamics of autonomous vehicles within a virtual environment.
